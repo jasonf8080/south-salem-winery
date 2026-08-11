@@ -1,0 +1,7 @@
+export { Hero } from './Hero.jsx'
+export { AboutTeaser } from './AboutTeaser.jsx'
+export { WelcomeIntro } from './WelcomeIntro.jsx'
+export { WinesHighlight } from './WinesHighlight.jsx'
+export { WhyChooseUs } from './WhyChooseUs.jsx'
+export { PartnerCrossPromo } from './PartnerCrossPromo.jsx'
+export { VisitCta } from './VisitCta.jsx'

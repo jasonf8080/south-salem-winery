@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-primary text-cream font-sans antialiased;
+  font-family: 'Lexend', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  @apply font-serif;
+}
+
+::selection {
+  @apply bg-accent text-cream;
+}
