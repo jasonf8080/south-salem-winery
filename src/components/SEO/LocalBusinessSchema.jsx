@@ -1,10 +1,10 @@
 import { Helmet } from 'react-helmet-async'
 import { business, contact, seo } from '../../data.js'
 
-// Thu-Fri 7:30am-8:00am, Sat 7am-7pm, Sun 7am-5pm (from contact.hours)
+// Thu-Sat 8:00am-7:00pm, Sun 7am-5pm (from contact.hours)
 const openingHours = [
-  { dayOfWeek: ['Thursday', 'Friday'], opens: '07:30', closes: '08:00' },
-  { dayOfWeek: ['Saturday'], opens: '07:00', closes: '19:00' },
+  { dayOfWeek: ['Thursday', 'Friday'], opens: '08:00', closes: '19:00' },
+  { dayOfWeek: ['Saturday'], opens: '08:00', closes: '19:00' },
   { dayOfWeek: ['Sunday'], opens: '07:00', closes: '17:00' },
 ]
 

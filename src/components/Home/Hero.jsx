@@ -32,11 +32,11 @@ export const Hero = () => {
       className="relative flex min-h-[90vh] flex-col justify-end overflow-hidden pb-20 md:pb-28"
     >
       <img
-        src="/images/south-salem-winery-vineyard-north-fork-hero.webp"
-        alt="Rows of grapevines under a summer sky at a North Fork, Long Island vineyard that supplies South Salem Winery"
+        src="/images/south-salem-winery-homepage-hero.jpg"
+        alt="Featured hero image for South Salem Winery"
         className="absolute inset-0 h-full w-full object-cover"
-        width="1600"
-        height="1067"
+        width="1400"
+        height="1750"
         loading="eager"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/40 to-primary/10" />
