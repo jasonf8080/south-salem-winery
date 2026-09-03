@@ -32,7 +32,7 @@ export const Hero = () => {
       className="relative flex min-h-[90vh] flex-col justify-end overflow-hidden pb-20 md:pb-28"
     >
       <img
-        src="/images/south-salem-winery-homepage-hero.jpg"
+        src="/images/south-salem-winery-wine-glass-pour.webp"
         alt="Featured hero image for South Salem Winery"
         className="absolute inset-0 h-full w-full object-cover"
         width="1400"
