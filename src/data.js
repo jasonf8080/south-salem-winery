@@ -30,7 +30,7 @@ export const contact = {
   hours: [
     { days: 'Thursday – Friday', time: '8:00 AM – 7:00 PM' },
     { days: 'Saturday', time: '8:00 AM – 7:00 PM' },
-    { days: 'Sunday', time: '7:00 AM – 5:00 PM' },
+    { days: 'Sunday', time: '8:00 AM – 5:00 PM' },
     { days: 'Monday – Wednesday', time: 'Closed' },
   ],
 }
